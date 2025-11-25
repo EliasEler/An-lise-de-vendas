@@ -1,0 +1,101 @@
+client_id,client_name,city,age
+1,Cliente 1,Belo Horizonte,69
+2,Cliente 2,Belo Horizonte,30
+3,Cliente 3,São Paulo,58
+4,Cliente 4,Belo Horizonte,20
+5,Cliente 5,São Paulo,56
+6,Cliente 6,Rio de Janeiro,23
+7,Cliente 7,Belo Horizonte,25
+8,Cliente 8,Rio de Janeiro,44
+9,Cliente 9,São Paulo,26
+10,Cliente 10,Curitiba,54
+11,Cliente 11,Belo Horizonte,50
+12,Cliente 12,São Paulo,68
+13,Cliente 13,Curitiba,59
+14,Cliente 14,Curitiba,61
+15,Cliente 15,Rio de Janeiro,41
+16,Cliente 16,São Paulo,32
+17,Cliente 17,Curitiba,49
+18,Cliente 18,Belo Horizonte,49
+19,Cliente 19,Belo Horizonte,41
+20,Cliente 20,Rio de Janeiro,58
+21,Cliente 21,Curitiba,69
+22,Cliente 22,São Paulo,66
+23,Cliente 23,Belo Horizonte,66
+24,Cliente 24,Curitiba,69
+25,Cliente 25,Curitiba,29
+26,Cliente 26,Rio de Janeiro,56
+27,Cliente 27,Belo Horizonte,19
+28,Cliente 28,Belo Horizonte,20
+29,Cliente 29,São Paulo,66
+30,Cliente 30,Belo Horizonte,54
+31,Cliente 31,São Paulo,66
+32,Cliente 32,Belo Horizonte,34
+33,Cliente 33,Rio de Janeiro,66
+34,Cliente 34,Belo Horizonte,19
+35,Cliente 35,São Paulo,19
+36,Cliente 36,São Paulo,45
+37,Cliente 37,Rio de Janeiro,40
+38,Cliente 38,Belo Horizonte,54
+39,Cliente 39,Belo Horizonte,49
+40,Cliente 40,Rio de Janeiro,50
+41,Cliente 41,Belo Horizonte,18
+42,Cliente 42,Belo Horizonte,36
+43,Cliente 43,São Paulo,19
+44,Cliente 44,Belo Horizonte,61
+45,Cliente 45,Belo Horizonte,43
+46,Cliente 46,Rio de Janeiro,49
+47,Cliente 47,Rio de Janeiro,23
+48,Cliente 48,Curitiba,49
+49,Cliente 49,São Paulo,21
+50,Cliente 50,Belo Horizonte,28
+51,Cliente 51,Belo Horizonte,34
+52,Cliente 52,Curitiba,55
+53,Cliente 53,Belo Horizonte,41
+54,Cliente 54,São Paulo,22
+55,Cliente 55,Curitiba,69
+56,Cliente 56,São Paulo,51
+57,Cliente 57,Curitiba,23
+58,Cliente 58,Curitiba,39
+59,Cliente 59,Rio de Janeiro,28
+60,Cliente 60,São Paulo,65
+61,Cliente 61,Belo Horizonte,33
+62,Cliente 62,Belo Horizonte,50
+63,Cliente 63,São Paulo,26
+64,Cliente 64,Belo Horizonte,23
+65,Cliente 65,Belo Horizonte,33
+66,Cliente 66,São Paulo,46
+67,Cliente 67,Curitiba,20
+68,Cliente 68,São Paulo,37
+69,Cliente 69,Curitiba,53
+70,Cliente 70,Belo Horizonte,36
+71,Cliente 71,Belo Horizonte,43
+72,Cliente 72,Belo Horizonte,20
+73,Cliente 73,Rio de Janeiro,36
+74,Cliente 74,Curitiba,37
+75,Cliente 75,Rio de Janeiro,49
+76,Cliente 76,Rio de Janeiro,24
+77,Cliente 77,São Paulo,69
+78,Cliente 78,Rio de Janeiro,58
+79,Cliente 79,São Paulo,50
+80,Cliente 80,São Paulo,57
+81,Cliente 81,Rio de Janeiro,56
+82,Cliente 82,Curitiba,35
+83,Cliente 83,Curitiba,57
+84,Cliente 84,Curitiba,18
+85,Cliente 85,Curitiba,28
+86,Cliente 86,Curitiba,45
+87,Cliente 87,Rio de Janeiro,42
+88,Cliente 88,Rio de Janeiro,67
+89,Cliente 89,Belo Horizonte,40
+90,Cliente 90,Curitiba,48
+91,Cliente 91,Rio de Janeiro,47
+92,Cliente 92,Belo Horizonte,59
+93,Cliente 93,Curitiba,52
+94,Cliente 94,São Paulo,24
+95,Cliente 95,Belo Horizonte,33
+96,Cliente 96,Rio de Janeiro,43
+97,Cliente 97,São Paulo,65
+98,Cliente 98,São Paulo,69
+99,Cliente 99,São Paulo,66
+100,Cliente 100,Belo Horizonte,19
